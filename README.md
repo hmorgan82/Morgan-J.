@@ -1,2 +1,1 @@
-# tiniping-kr
-tiniping
+Morgan J.
